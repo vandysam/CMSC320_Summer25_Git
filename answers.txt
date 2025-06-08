@@ -8,3 +8,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge preserves history. Rebasing rewrites the history.
