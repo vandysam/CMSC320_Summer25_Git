@@ -12,3 +12,8 @@ Answer: Healthcare.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge preserves history. Rebasing rewrites the history.
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: Being productive. 
